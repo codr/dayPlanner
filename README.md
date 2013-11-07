@@ -12,3 +12,5 @@ It alows you to add events and see them side by side.
 - Better handle filling empty space.
 - Add the ability to remove single events instead of clearing the entire day.
 - Add more elaborate entries.
+- Add better error validate. 
+  - Add check to see that the start time is before the end time.
